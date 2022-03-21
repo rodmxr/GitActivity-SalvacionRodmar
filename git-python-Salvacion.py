@@ -5,3 +5,8 @@ def personal_details():
 
 personal_details()
 
+def educational_background():
+    educational_background = "College Undergraduate"
+    print("Educational Background: {}".format(educational_background))
+
+educational_background()
