@@ -1,0 +1,7 @@
+def personal_details():
+    name, address = "Rodmar Salvacion", "Barangay Uno, Gasan, Marinduque"
+    birthdate = "March 28, 2000" 
+    print("Name: {}\nAddress: {}\nBirthdate: {}".format(name, address, birthdate))
+
+personal_details()
+
