@@ -10,3 +10,9 @@ def educational_background():
     print("Educational Background: {}".format(educational_background))
 
 educational_background()
+
+def hobbies():
+    hobbies = "Playing Basketball, hanging-out, watching movies, learning, traveling "
+    print("My Hobbies: {}".format(hobbies))
+    
+hobbies()
